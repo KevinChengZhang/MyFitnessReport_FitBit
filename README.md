@@ -7,6 +7,11 @@ This is my personal project! I wanted to collect my own data that my Fitbit has 
 I want to see what relationships there are between specific features and whether or not it has a positive/negative impact on my overall health. 
 
 
+### To-Do's
+##### updated: 04/11/20
+* Fix implementation of graphs
+* Have the data be stored in a database  (Redis? Mongo? SQL?)
+
 
 ### Sources
 ------
