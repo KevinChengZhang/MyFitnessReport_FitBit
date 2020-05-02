@@ -8,9 +8,12 @@ I want to see what relationships there are between specific features and whether
 
 
 ### To-Do's
-##### updated: 04/11/20
-* Fix implementation of graphs
+##### updated: 05/01/20
+* Fix implementation of graphs [CLOSE TO BEING DONE!]
+* Shifted to focusing on a database store before doing data analysis*
+* Reasoning: I am simply more interested in learning this at the moment *
 * Have the data be stored in a database  (Redis? Mongo? SQL?)
+    * Choosing MongoDB since document stores seem to be perfect for    this but also since I simply want to learn more about Mongo.
 
 
 ### Sources
