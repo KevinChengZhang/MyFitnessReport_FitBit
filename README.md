@@ -2,12 +2,15 @@
 
 ### About the Project
 ------
-This is my personal project! I wanted to collect my own data that my Fitbit has collected over the past few years. I also wanted to use this project to implement what I learned in a recent class I took. 
+This is my personal project! I wanted to collect my own data that my Fitbit has collected over the past few years.
 
-I want to see what relationships there are between specific features and whether or not it has a positive/negative impact on my overall health. 
+Goal: I want to see what relationships there are between specific features and whether or not it has a positive/negative impact on my overall health. 
 
+### Updates 
+##### updated: 05/26/20
+* I have moved to trying to log everything I do everytime I add something. (log.md)
+* I have been all over the place with this project. One moment I am trying to work on a working implementation of a database api (still in the works haven't pushed it yet) then another to trying to do more analysis on data.
 
-### To-Do's
 ##### updated: 05/01/20
 * Fix implementation of graphs [CLOSE TO BEING DONE!]
 * Shifted to focusing on a database store before doing data analysis*
